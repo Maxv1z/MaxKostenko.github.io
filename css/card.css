@@ -41,6 +41,7 @@ body {
 }
 
 .profile-position {
+  content: '<i class="fa-solid fa-square-code"></i>';
   margin: 0;
   text-transform: uppercase;
   font-size: 0.875rem;
